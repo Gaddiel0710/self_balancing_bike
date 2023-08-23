@@ -38,6 +38,8 @@ _esquematico de conexiones. (2023). imagen JPG. https://github.com/remrc/Self-Ba
 
 ## Structural design
 El cuerpo de la moto autobalanceada se conforma de 4 secciones esenciales, siendo la base principal donde se alberga al controlador asi como el sensor giroscopico y el modulo de comunicacion bluetooth HC_05, las secciones delantera y trasera donde se colocaran los motores de movimiento en la seccion delantera se utilizara un servomotor SG-90 para controlar los giros de derecha a izquierda, en la seccion trasera se coloca un motorreductor para el movimiento hacia adelante y atras, como ultima seccion se colocar una base para el motor de control para la rueda volada, la cual permitira el control del balanceo de la moto.
-
+- IMAGEN 1
 - [![bike1.jpg](https://i.postimg.cc/DZYh0QpW/bike1.jpg)](https://postimg.cc/2bvMXWDm)
+
+- IMAGEN 2
 - [![Whats-App-Image-2023-08-23-at-2-15-45-PM.jpg](https://i.postimg.cc/sg9R7C0C/Whats-App-Image-2023-08-23-at-2-15-45-PM.jpg)](https://postimg.cc/G42NnVCX)
